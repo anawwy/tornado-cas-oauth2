@@ -1,7 +1,7 @@
 Tornado-cas-oauth2
 =====================
 
-Tornado-cas-oauth2  is a Python2 `tornado<https://github.com/tornadoweb/tornado>`_`cas<https://github.com/go-cas/cas>`_ oauth2 client
+Tornado-cas-oauth2  is a Python2 `tornado <https://github.com/tornadoweb/tornado>`_ `cas <https://github.com/go-cas/cas>`_ oauth2 client
 
 Settings
 --------
